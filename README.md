@@ -1,7 +1,7 @@
 Dimsdale-website
 ===========
 
-Copyright © 2014-2025, Rob Dimsdale-Zucker. Licensed under [Apache v2 License].
+Copyright © 2014-2026, Rob Dimsdale-Zucker. Licensed under [Apache v2 License].
 
 About
 -----
