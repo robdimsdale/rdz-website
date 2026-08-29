@@ -119,12 +119,20 @@ body {
   padding-bottom: 1em;
 }
 
-.resume-role-title {
-  /* font-style: italic; */
+.resume-role-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+
+.resume-role-header h4 {
+  margin-right: 1em;
 }
 
 .resume-role-date {
-  /* font-style: italic; */
+  flex: 0 0 auto;
+  white-space: nowrap;
+  color: #666;
 }
 
 .resume-role-summary {
@@ -135,4 +143,67 @@ body {
 
 .resume-role-highlights-list {
   margin-bottom: 0;
+}
+
+.resume-pdf-row {
+  margin-bottom: 1em;
+}
+
+.resume-pdf-note {
+  font-style: italic;
+}
+
+.resume-pdf-note .fa {
+  width: 1.3em;
+  text-align: center;
+  color: #005580;
+  margin-right: 0.4em;
+}
+
+.contact-list {
+  margin-bottom: 1.5em;
+}
+
+.contact-list li {
+  margin-bottom: 0.3em;
+}
+
+div.contact-list {
+  margin-bottom: 0.3em;
+}
+
+.contact-list .fa {
+  width: 1.3em;
+  text-align: center;
+  margin-right: 0.4em;
+  color: #005580;
+}
+
+.contact-list .text-right .fa {
+  margin-right: 0;
+  margin-left: 0.4em;
+}
+
+@media screen and (max-width: 991px) {
+  div.contact-list {
+    margin-bottom: 0;
+  }
+
+  .contact-list [class^="col-"] {
+    width: 100%;
+    margin-bottom: 0.3em;
+  }
+
+  .contact-list .text-right {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-end;
+    align-items: center;
+    text-align: left;
+  }
+
+  .contact-list .text-right .fa {
+    margin-right: 0.4em;
+    margin-left: 0;
+  }
 }

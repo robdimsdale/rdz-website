@@ -9,11 +9,12 @@ roles:
   startDate: Nov. 2023
   endDate: Present
   summary: |
-    Continuing in existing technical leadership role on the Tanzu Build team after Broadcom acquired VMware
+    Continuing in the same technical leadership role on the Tanzu Build team after Broadcom acquired VMware
   highlights:
   - |
-    Took large complex technical migration activities and broke them down for team to execute on,
-    including moving hundreds of repositories and thousands of CI pipelines from github.com to self-hosted GitHub Enterprise.
+    Re-architected CI pipelines and developer-facing systems to save $10M+ in cloud spend per year, including
+    migrating hundreds of repositories and thousands of CI pipelines to self-hosted infrastructure.
   - |
-    Re-architected CI pipelines and developer systems to save $10m in cloud spend per year.
+    Automated post-acquisition engineering requirements across about 30 products — CVE triage, dependency
+    provenance, credential rotation, tooling consolidation — with critical CVEs fixed within 24 hours.
 ---

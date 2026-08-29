@@ -2,31 +2,27 @@
 title: VMware, Tanzu Platform
 link: https://tanzu.vmware.com/platform
 weight: 2
-startDate: Jun. 2020
+startDate: Jan. 2020
 endDate: Nov. 2023
 roles:
 - title: Staff Engineer
   startDate: Sep. 2021
   endDate: Nov. 2023
   summary: |
-    Technical leader on the Tanzu Build team
+    Technical and interpersonal leadership for the Tanzu Build team of 15-20 people spanning multiple disciplines
   highlights:
   - |
-    Provided technical and interpersonal leadership directly to a team of ten engineers
-    and indirectly to a wider group of 20-30 individuals spanning multiple disciplines.
+    Grew next-generation build technology (Cloud Native Buildpacks) to about $50M in annual revenue while
+    continuing to support existing customers on Cloud Foundry buildpacks.
   - |
-    Designed and implemented systems (both technical and organizational) to enable the team to create
-    the next-generation of build technologies while continuing to support existing customers and revenue streams.
+    Identified and removed bottlenecks to cut time-to-delivery for Buildpacks and related products by about 3-5x.
 - title: Senior Engineering Manager
   startDate: Jan. 2020
   endDate: Sep. 2021
-  summary: Continued in existing management/leadership role after VMware acquired Pivotal
+  summary: Continued in the same management role after VMware acquired Pivotal, just with a different title
   highlights:
   - |
-    Maintained a voluntary attrition rate for my team during the Pivotal to VMware
-    acquisition process that was significantly lower than average for Pivotal.
-  - |
-    Faciliated various acquisition activities, including transitioning multiple teams
-    (incorporating dozens of engineers) to a fundamentally different management structure than
-    they had been used to for years.
+    Facilitated acquisition activities, including transitioning multiple teams of dozens of engineers to a
+    fundamentally different management structure, with voluntary attrition on my teams well below an elevated
+    company average.
 ---

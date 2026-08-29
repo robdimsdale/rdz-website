@@ -1,11 +1,11 @@
 ---
-title: Previous employment experience
+title: Oracle · Softwire · Inmarsat · Pace
 link: 
 weight: 5
 startDate: Jul. 2009
 endDate: Jun. 2014
 roles:
-- title: Software developer
+- title: Software Engineer
   startDate: Jul. 2009
   endDate: Jun. 2014
   summary: |
