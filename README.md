@@ -5,7 +5,7 @@ Copyright © 2014-2026, Rob Dimsdale-Zucker. Licensed under [Apache v2 License].
 
 About
 -----
-Source for [robdimsdale.com]
+Source for [rob.dimsdalezucker.com]
 
 # Developing
 
@@ -22,4 +22,4 @@ hugo server
 ```
 
  [Apache v2 License]: https://github.com/robdimsdale/dimsdale-website/raw/master/LICENSE
- [robdimsdale.com]: https://robdimsdale.com
+ [rob.dimsdalezucker.com]: https://rob.dimsdalezucker.com
